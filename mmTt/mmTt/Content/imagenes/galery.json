@@ -1,0 +1,25 @@
+{
+  "jsonPhotos": [
+
+    {
+      "id": "1",
+      "url": "Content/imagenes/marcos-kimo.jpg",
+      "title": "Marcos kimosabi Matias",
+      "description": "Cubismo,geometria"
+    },
+    {
+      "id": "2",
+      "url": "Content/imagenes/matias-mornate-design.jpg",
+      "title": "Matias Morante",
+      "description": "Realismo, cubismo, geometria"
+    },
+    {
+      "id": "3",
+      "url": "Content/imagenes/diego-herrera.jpg",
+      "title": "Diego",
+      "description": "Cubismo,geometria"
+    }
+
+  ]
+
+}
